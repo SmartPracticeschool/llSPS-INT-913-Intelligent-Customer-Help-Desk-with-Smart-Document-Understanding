@@ -1,4 +1,4 @@
-llSPS-INT-593-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
+# llSPS-INT-593-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 
 Intelligent Customer Helpdesk with Smart Document Understanding.This project isworking example of a web app that utilizes multiple Watson services to create a better customer care experience.
 Made under the guidance of Smartinternz Internship Program at smartbrigde.
@@ -10,3 +10,4 @@ All these services are integrated in Node-red App which serves as an interface f
 User manual used in this project is already uploaded named ecobee3_userguide.
 
 Access to Node-Red App using this link:- https://climateapp.eu-gb.mybluemix.net/ui
+
