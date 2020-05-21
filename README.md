@@ -12,3 +12,5 @@ User manual used in this project is already uploaded named ecobee3_userguide.
 
 Access to Node-Red App using this link:- https://climateapp.eu-gb.mybluemix.net/ui
 
+Youtube video link is :https://www.youtube.com/watch?v=yhX23z_O39o
+
